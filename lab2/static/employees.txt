@@ -1,0 +1,2 @@
+1,Antonenko Violetta,20,Female,Kyiv,11111111,10,3600,1
+2,Sidorenko Dina,25,Female,Kyiv,222222222,20,2500,0
