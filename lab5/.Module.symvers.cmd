@@ -1,0 +1,1 @@
+savedcmd_/home/antonenko/SysProg/lab5/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/antonenko/SysProg/lab5/Module.symvers -T /home/antonenko/SysProg/lab5/modules.order -i Module.symvers -e 
